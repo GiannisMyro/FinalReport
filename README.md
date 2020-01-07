@@ -1,4 +1,4 @@
 # FinalReport
 
 
-![Screenshot](ergasia_1.png)
+![Screenshot](ergasia_1.jpg)
