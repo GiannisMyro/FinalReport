@@ -9,7 +9,6 @@
 #
 
 ![Screenshot](ergasia_2.jpg)
-
 Δεύτερη εικόνα
 # 
 # 
