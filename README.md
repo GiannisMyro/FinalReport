@@ -1,41 +1,30 @@
 # ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ 
 #        ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
-
+#
 ## Ονοματεπώνυμο: Χρήστος Μήλιος
 ## Αριθμός Μητρώου: Π2018219
 ### [Προφίλ στο github](https://github.com/p18mili1)
-# 
-# 
-![Screenshot](ergasia_1.jpg)
-
-Λεζάντα 1
-# 
 #
-
-![Screenshot](ergasia_2.jpg)
-
-Λεζάντα 2
-# 
-# 
-![Screenshot](ergasia_3.jpg)
-
-Λεζάντα 3
+# Σύνοψη
+Το κείμενο αυτό
 #
+#  Σύντομη Εισαγωγή
+Για
 #
-![Screenshot](ergasia_4.jpg)
-
-Λεζάντα 4
+#  Σύντομη ανάλυση σχετικών έργων και εργαλείων
+Στην
 #
+# Μέθοδος και τεχνικές ανάπτυξης
+Στ
 #
-## Παραδοτέο Γ
-Προσθήκη της βιογραφίας του  **_Ivan Sutherland_**. Πρώτα έγινε η δημιουργία και η συγγραφή των αρχείων **ivan-sutherland.md** και **bio-sutherland.md** στους καταλόγους **[/\_biography](https://github.com/p18mili1/gr/blob/gh-pages/_biography/)** και **[/\_includes](https://github.com/p18mili1/gr/blob/gh-pages/_includes/)**, αντίστοιχα, και στη συνέχεια η προσθήκη των εικόνων (και των αντίστοιχων εικονιδίων) **ivan-sutherland.jpg**, **lightpen.jpg** και **sketchpad1.jpg** στον κατάλογο **[/images](https://github.com/p18mili1/gr/blob/gh-pages/images/)**.
+# Αποτελέσματα με λεζάντες σε ενδεικτικές οθόνες
 
 ## Παραδοτέο 1
-Το σύστημα "τρέχει" σε Ubuntu 18.04.3 LTS που είναι εγκατεστημένο σε VirtualBox σε σύστημα με Windows 10.
-#
+### [Σύνδεσμος αποθετηρίου hci](https://github.com/p18mili1/hci)
+
 ## Εργασία 1η
 ### Εγκατάσταση απαραίτητων εφαρμογών και επίδειξη του συστήματος
-Αρχικά, έγινε η εγκατάσταση των απαιτούμενων πακέτων python και asciinema και στη συνέχεια η εγκατάσταση των πακέτων neofetch και mc (midnight commander).
+Αρχικά, έγινε η εγκατάσταση των απαιτούμενων πακέτων python και asciinema και στη συνέχεια η εγκατάσταση των πακέτων neofetch και mc (midnight commander). Το πρόγραμμα asciinema καταγράφει σε video το παράθυρο του shell σε ένα αρχείο τύπου .casτ, το οποίο είναι διαθέσιμο στο χρήστη online.
 
 ### Link παραδοτέου αρχείου asciinema: https://asciinema.org/a/275433
 
