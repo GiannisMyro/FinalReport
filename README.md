@@ -4,27 +4,24 @@
 # 
 # 
 ![Screenshot](ergasia_1.jpg)
-Πρώτη εικόνα
+
+Λεζάντα 1
 # 
 #
 
 ![Screenshot](ergasia_2.jpg)
-Δεύτερη εικόνα
+
+Λεζάντα 2
 # 
 # 
 ![Screenshot](ergasia_3.jpg)
-Τρίτη εικόνα
+
+Λεζάντα 3
 #
 #
 ![Screenshot](ergasia_4.jpg)
-Τέταρτη εικόνα
+
+Λεζάντα 4
 #
 #
-### Τεκμηρίωση ζητουμένων
-#### [Σύνδεσμος Παραδοτέου εργασία 1](https://asciinema.org/a/275434)
 
-![Screenshot](ergasia_1.jpg)
-
-
-## Εργασία 2: Get familiar with basic commands, reading documentation and editing files
-Έγινε εγκατάσταση στο ubuntu του Vim editor, του file manager ranger καθώς και της εφαρμογής the fuck. Αρχικά είδαμε μερικές απο τις βασικές εντολες του linux καθώς και πως κάνουμε
