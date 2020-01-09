@@ -44,13 +44,21 @@
 [Εικόνα 5](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80.jpg), 
 [Εικονίδιο 5](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80-thumb.jpg)
 
-
-
-Για το **Παραδοτέο Γ** της εργασίας συμμετοχικού περιεχομένου επέλεξα να προσθέσω μια νέα βιογραφία, του _Ivan Sutherland_. Αφού συνέθεσα το βιογραφικό έπειτα από σχετική έρευνα στο IΤο πρόβλημα που υπήρχε με την δημιουργία του εκτελέσιμου μέσω του Github pages, επιλύθηκε αλλάζοντας το tag “include_relative” στα αρχεία που το περιείχαν, με το tag “include”.nternet, το αποθήκευσα σε μορφή markdown στο αρχείο *bio-sutherland.md* και μαζί με το αρχείο κώδικα *ivan-sutherland.md* τα έβαλα στον κατάλογο **\_biography** του αποθετηρίου. Στη συνέχεια, έβαλα στον κατάλογο **/images** τρεις εικόνες και τα αντίστοιχα εικονίδιά τους (thumb).
+Για το **Παραδοτέο Γ** της εργασίας συμμετοχικού περιεχομένου επέλεξα να προσθέσω μια νέα βιογραφία, του _Ivan Sutherland_. Αφού συνέθεσα το βιογραφικό έπειτα από σχετική έρευνα στο Internet, το αποθήκευσα σε μορφή markdown στο αρχείο *bio-sutherland.md* και μαζί με το αρχείο κώδικα *ivan-sutherland.md* τα έβαλα στον κατάλογο **\_biography** του αποθετηρίου. Στη συνέχεια, έβαλα στον κατάλογο **/images** τρεις εικόνες και τα αντίστοιχα εικονίδιά τους (thumb).
+#### Τα link αρχείων κώδικα που έχουν προστεθεί:
+[Αρχείο κώδικα](https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md), 
+[Βιογραφία](https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-sutherland.md) 
+#### Τα link των εικόνων και εικονιδίων που έχουν προστεθεί:
+[Εικόνα 1](https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland.jpg), 
+[Εικονίδιο 1](https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland-thumb.jpg), 
+[Εικόνα 2](https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen.jpg), 
+[Εικονίδιο 2](https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen-thumb.jpg), 
+[Εικόνα 3](https://github.com/p18mili1/gr/blob/gh-pages/images/sketchpad1.jpg), 
+[Εικονίδιο 3](https://github.com/p18mili1/gr/blob/gh-pages/images/sketchpad1-thumb.jpg) 
 
 Το πρόβλημα με τα github pages που ανέφερα παραπάνω οφείλονταν στο γεγονός ότι υπήρχαν 20 αρχεία τα οποία περιείχαν το tag "include_relative" για συνολικά 38 αρχεία χωρίς να υπάρχει ο κατάλογος αυτός. Το πρόβλημα λύθηκε αλλάζοντας το tag "include_relative" σε "include" και αντιγράφοντας τα 38 αυτά αρχεία στον κατάλογο **/\_includes** του αποθετηρίου.
 
-
+#### Τα link αρχείων κώδικα που έχουν τροποποιηθεί
 _biography/alan-kay.md
 _biography/mark-weiser.md
 _case-study/reactable.md
@@ -71,16 +79,45 @@ pages/method/method.md
 pages/credits/image-credits.md
 pages/chapters/make.md
 pages/chapters/research.md
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /\_biography σε /\_includes
 
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /\_case-study σε /\_includes
 
-https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md
-https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-sutherland.md
-https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland-thumb.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen-thumb.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/sketchpad1-thumb.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/sketchpad1.jpg
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/method σε /\_includes
+
+{% include audience.md
+{% include need.md %}
+{% include benefit.md %}
+{% include structure.md %}
+{% include required.md %}
+{% include approach.md %}
+{% include pedagogy.md %}
+{% include syllabus.md %}
+{% include projects.md %}
+{% include evaluation.md %}
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/credits σε /\_includes
+{% include credits-pre.md %}
+
+{% include credits-intro.md %}
+
+{% include credits-ch01.md %}
+
+{% include credits-ch02.md %}
+
+{% include credits-ch03.md %}
+
+{% include credits-ch04.md %}
+
+{% include credits-ch05.md %}
+
+{% include credits-ch06.md %}
+
+{% include credits-ax01.md %}
+
+{% include credits-ax02.md %}
+
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/chapters σε /\_includes
+
 
 
 
