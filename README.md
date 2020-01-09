@@ -29,7 +29,6 @@
 
 Το πρόβλημα με τα github pages που ανέφερα παραπάνω οφείλονταν στο γεγονός ότι υπήρχαν 20 αρχεία τα οποία περιείχαν το tag "include_relative" για συνολικά 38 αρχεία χωρίς να υπάρχει ο κατάλογος αυτός. Το πρόβλημα λύθηκε αλλάζοντας το tag "include_relative" σε "include" και αντιγράφοντας τα 38 αυτά αρχεία στον κατάλογο **\_includes** του αποθετηρίου.
 
-Το πρόβλημα που υπήρχε με την δημιουργία του εκτελέσιμου μέσω του Github pages, επιλύθηκε αλλάζοντας το tag “include_relative” στα αρχεία που το περιείχαν, με το tag “include”.
 
 https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md
 https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-sutherland.md
