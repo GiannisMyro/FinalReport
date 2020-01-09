@@ -24,20 +24,32 @@
 Στην **1η** εργασία, στο _Παραδοτέο 1_, άλλαξα το command prompt του συστήματος με τον αριθμό μητρώου μου τροποποιώντας κατάλληλα το αρχείο διαμόρφωσης .bashrc και εμφάνισα στην οθόνη τα κρυφά αρχεία του καταλόγου μου και το αρχείο διαμόρφωσης παραμέτρων .bashrc. Επίσης, με το πρόγραμμα neofetch εμφάνισα τις πληροφορίες του συστήματος. Στην **2η** εργασία, επίσης στο _Παραδοτέο 1_, έκανα χρήση των man-pages, μία επίδειξη χρήσης εντολών του bash και βασικές λειτουργίες επξεργασίας αρχείων με τον editor vim καθώς επίσης και επίδειξη λειτουργίας του file manager  Ranger και του προγράμματος διόρθωσης λαθών στις εντολές the Fuck. Στην **3η** εργασία, στο _Παραδοτέο 2_, δημιούργησα με την εφαρμογή todo.sh μία λίστα εργασιών σε μη γραφικό περιβάλλον και στη συνέχεια έκανα μια επίδειξη μετατροπών, διαγραφών, προσαρτήσεων και αφαιρέσεων εγγραφών ή στοιχείων για τη λίστα αυτή ενώ στην **4η** εργασία, επίσης στο _Παραδοτέο 2_, με την εφαρμογή calcurse δημιούργησα και επεξεργάστηκα μία λίστα συναντήσεων και εργασιών σε γραφικό περιβάλλον αυτή τη φορά.
 
 Για το **Παραδοτέο Α** της εργασίας συμμετοχικού περιεχομένου η προσθήκη των πέντε νέων εικόνων στο δικό μου αντίγραφο του βιβλίου έγινε ως εξής: Αρχικά τροποποίησα το αρχείο *\_congfig.yml* και αντικατέστησα τα link του βιβλίου με τα αντίστοιχα link του δικού μου αντίγραφου. Στη συνεχεια, πρόσθεσα τo αρχείo κώδικα (.md) για την κάθε εικόνα στον κατάλογο **/\_gallery** και στη συνέχεια πρόσθεσα τις εικόνες και τα αντίστοιχα εικονίδια (thumbs) στον κατάλογο **/images**.
+#### Το link τoυ αρχείου που έχει τροποποιηθεί:
+[\_congif.yml](https://github.com/p18mili1/gr/blob/gh-pages/_config.yml)
+#### Τα link αρχείων κώδικα που έχουν προστεθεί:
+[Εικόνα 1](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Atmel_Atmega8.md), 
+[Εικόνα 2](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Intel_P8051.md), 
+[Εικόνα 3](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/MOS_6502.md), 
+[Εικόνα 4](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Motorola_MC6800.md), 
+[Εικόνα 5](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Zilog_Z80.md)
+#### Τα link των εικόνων και εικονιδίων που έχουν προστεθεί:
+[Εικόνα 1](https://github.com/p18mili1/gr/blob/gh-pages/images/Atmel_Atmega8.jpg), 
+[Εικονίδιο 1](https://github.com/p18mili1/gr/blob/gh-pages/images/Atmel_Atmega8-thumb.jpg), 
+[Εικόνα 2](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051.jpg), 
+[Εικονίδιο 2](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051-thumb.jpg), 
+[Εικόνα 3](https://github.com/p18mili1/gr/blob/gh-pages/images/MOS_6502.jpg), 
+[Εικονίδιο 3](https://github.com/p18mili1/gr/blob/gh-pages/images/MOS_6502-thumb.jpg), 
+[Εικόνα 4](https://github.com/p18mili1/gr/blob/gh-pages/images/Motorola_MC6800.jpg), 
+[Εικονίδιο 4](https://github.com/p18mili1/gr/blob/gh-pages/images/Motorola_MC6800-thumb.jpg), 
+[Εικόνα 5](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80.jpg), 
+[Εικονίδιο 5](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80-thumb.jpg)
+
+
 
 Για το **Παραδοτέο Γ** της εργασίας συμμετοχικού περιεχομένου επέλεξα να προσθέσω μια νέα βιογραφία, του _Ivan Sutherland_. Αφού συνέθεσα το βιογραφικό έπειτα από σχετική έρευνα στο IΤο πρόβλημα που υπήρχε με την δημιουργία του εκτελέσιμου μέσω του Github pages, επιλύθηκε αλλάζοντας το tag “include_relative” στα αρχεία που το περιείχαν, με το tag “include”.nternet, το αποθήκευσα σε μορφή markdown στο αρχείο *bio-sutherland.md* και μαζί με το αρχείο κώδικα *ivan-sutherland.md* τα έβαλα στον κατάλογο **\_biography** του αποθετηρίου. Στη συνέχεια, έβαλα στον κατάλογο **/images** τρεις εικόνες και τα αντίστοιχα εικονίδιά τους (thumb).
 
-Το πρόβλημα με τα github pages που ανέφερα παραπάνω οφείλονταν στο γεγονός ότι υπήρχαν 20 αρχεία τα οποία περιείχαν το tag "include_relative" για συνολικά 38 αρχεία χωρίς να υπάρχει ο κατάλογος αυτός. Το πρόβλημα λύθηκε αλλάζοντας το tag "include_relative" σε "include" και αντιγράφοντας τα 38 αυτά αρχεία στον κατάλογο **\_includes** του αποθετηρίου.
+Το πρόβλημα με τα github pages που ανέφερα παραπάνω οφείλονταν στο γεγονός ότι υπήρχαν 20 αρχεία τα οποία περιείχαν το tag "include_relative" για συνολικά 38 αρχεία χωρίς να υπάρχει ο κατάλογος αυτός. Το πρόβλημα λύθηκε αλλάζοντας το tag "include_relative" σε "include" και αντιγράφοντας τα 38 αυτά αρχεία στον κατάλογο **/\_includes** του αποθετηρίου.
 
-
-https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md
-https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-sutherland.md
-https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland-thumb.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen-thumb.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/sketchpad1-thumb.jpg
-https://github.com/p18mili1/gr/blob/gh-pages/images/sketchpad1.jpg
 
 _biography/alan-kay.md
 _biography/mark-weiser.md
@@ -61,17 +73,20 @@ pages/chapters/make.md
 pages/chapters/research.md
 
 
+https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md
+https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-sutherland.md
+https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland-thumb.jpg
+https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland.jpg
+https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen-thumb.jpg
+https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen.jpg
+https://github.com/p18mili1/gr/blob/gh-pages/images/sketchpad1-thumb.jpg
+https://github.com/p18mili1/gr/blob/gh-pages/images/sketchpad1.jpg
 
 
-[\_congif.yml](https://github.com/p18mili1/gr/blob/gh-pages/_config.yml)
 
-Link αρχείων κώδικα:
 
-[Εικόνα 1](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Atmel_Atmega8.md)
-[Εικόνα 2](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Intel_P8051.md)
-[Εικόνα 3](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/MOS_6502.md)
-[Εικόνα 4](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Motorola_MC6800.md)
-[Εικόνα 5](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Zilog_Z80.md)
+
+
 
 ### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
 
