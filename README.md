@@ -150,11 +150,19 @@
 
 # Αναφορές
 Περιλαμβάνονται όλοι οι σύνδεσμοι ιστοσελίδων που πάνω στις οποίες βασίστηκα για την ολοκλήρωση της εργασίας συνολικά.
-* (https://en.wikipedia.org/wiki/Ivan_Sutherland)
-* (https://www.computerhistory.org/fellowawards/hall/ivan-e-sutherland/)
-* (https://www.computer.org/profiles/ivan-sutherland)
-* (https://en.wikipedia.org/wiki/List_of_early_microcomputers)
-* (https://github.com/ranger/ranger/wiki/Official-user-guide)
-* (https://guides.github.com/features/mastering-markdown/)
-* (https://www.markdownguide.org/getting-started/)
-* (https://guides.github.com/features/mastering-markdown/)
+
+https://en.wikipedia.org/wiki/Ivan_Sutherland
+
+https://www.computerhistory.org/fellowawards/hall/ivan-e-sutherland/
+
+https://www.computer.org/profiles/ivan-sutherland
+
+https://en.wikipedia.org/wiki/List_of_early_microcomputers
+
+https://github.com/ranger/ranger/wiki/Official-user-guide)
+
+https://guides.github.com/features/mastering-markdown/
+
+https://www.markdownguide.org/getting-started/
+
+https://guides.github.com/features/mastering-markdown/
