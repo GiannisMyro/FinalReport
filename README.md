@@ -1,8 +1,9 @@
-# Τίτλος: Στη χώρα του linux (user land)
-
+# Τίτλος: User land
 ## Ονοματεπώνυμο: Χρήστος Μήλιος
 ## Αριθμός Μητρώου: Π2018219
-### [Προφίλ στο github](https://github.com/p18mili1)
+### [Link αποθετηρίου hci](https://github.com/p18mili1/hci/tree/2018219/projects/2018219)
+### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
+### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
 
 # Εισαγωγή
 Η εργασία αυτή εκπονήθηκε στα πλαίσια του μαθήματος Επικοινωνία Ανθρώπου-Υπολογιστή του Γ' εξαμήνου σύμφωνα με το δείγμα τελικής αναφοράς που αναφέρεται στο [παράδειγμα καλής δομής των παραδοτέων](https://github.com/courses-ionio/hci/blob/master/projects/201XXXX/README.md) που έχει παρασχεθεί από τους διδάσκοντες.
@@ -116,7 +117,7 @@
 [credits-ch03.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch03.md), 
 [credits-ch04.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch04.md), 
 [credits-ch05.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch05.md), 
-[credits-ch05.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch05.md), 
+[credits-ch06.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch06.md), 
 [credits-ax01.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ax01.md), 
 [credits-ax02.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ax02.md)
 #### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/chapters σε /\_includes
@@ -134,7 +135,7 @@
 
   ![Screenshot](ergasia_2.jpg)
   
-## Παραδοτέο 1
+## Παραδοτέο 2
 * Ενδεικτική εικόνα για την **Εργασία 3**
 
   ![Screenshot](ergasia_3.jpg)
@@ -145,9 +146,15 @@
 
 
 # Συμπεράσματα
-Η εργασία  στο μάθημα HCI βοήθησε  στην απόκτηση δεξιοτήτων  που αφορούν το  λειτουργικό σύστημα Linux και τις τεράστιες δυνατότητες που παρέχει στους  χρήστες ,  καθώς  και  στην  εκμάθηση γλωσσών προγραμματισμού όπως η HTML, JavaScript και CSS. Επίσης μάθαμε να χειριζόμαστε την πλατφόρμα Github η οποία αποτελεί ένα ισχυρό εργαλείο για την δημιουργία μεγάλων projects, όπου η ομαδική συνεισφορά κρίνεται αναγκαία για την ολοκλήρωση τους. Τέλος, μέσω των δύο εργασιών συμμετοχικού περιεχομένου συνεισφέραμε στον εμπλουτισμό του βιβλίου του μαθήματος.
+Ο σκοπός της εργασίας αυτής ήταν η ομαλή προσαρμογή του χρήστη στον κόσμο του Linux και της γραμμής εντολών μαθαίνοντάς του τα βασικά αλλά κυρίως δείχνοντάς του πως μπορεί να μάθει και να ανακαλύψει πράγματα μέσα από το ίδιο το λειτουργικό σύστημα ακόμα και χωρίς τη βοήθεια του Internet. Επίσης, μύησε το χρήστη στη λειτουργία της πλαρφόρμας Github, ενός πολύ ισχυρού και δημοφιλούς εργαλείου για τη δημιουργία μεγάλων project εξ΄αποστάσεως με συνεργάτες που δεν γνωρίζονται δια ζώσης αλλά λειτουργούν σαν ομάδα ακολουθώντας συγκεκριμένους κανόνες. Και τέλος, με τα συμμετοχικά περιεχόμενα ο χρήστης μπόρεσε να πάρει μία γεύση για τον τρόπο και τους κανόνες που διέπουν τις συμμετοχικές εργασίες και την ιδιαίτερη προσοχή που απαιτείται για να μπορέσει κάποιος να συνεισφέρει πραγματικά σε ένα τέτοιο project.
 
-badwolfgr
-### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
-
-### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
+# Αναφορές
+Περιλαμβάνονται όλοι οι σύνδεσμοι ιστοσελίδων που πάνω στις οποίες βασίστηκα για την ολοκλήρωση της εργασίας συνολικά.
+* https://en.wikipedia.org/wiki/Ivan_Sutherland 
+* https://www.computerhistory.org/fellowawards/hall/ivan-e-sutherland/
+* https://www.computer.org/profiles/ivan-sutherland 
+* https://en.wikipedia.org/wiki/List_of_early_microcomputers
+* https://github.com/ranger/ranger/wiki/Official-user-guide
+* https://guides.github.com/features/mastering-markdown/ 
+* https://www.markdownguide.org/getting-started/ 
+* https://guides.github.com/features/mastering-markdown/ 
