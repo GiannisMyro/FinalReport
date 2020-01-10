@@ -59,161 +59,69 @@
 Το πρόβλημα με τα github pages που ανέφερα παραπάνω οφείλονταν στο γεγονός ότι υπήρχαν 20 αρχεία τα οποία περιείχαν το tag "include_relative" για συνολικά 38 αρχεία χωρίς να υπάρχει ο κατάλογος αυτός. Το πρόβλημα λύθηκε αλλάζοντας το tag "include_relative" σε "include" και αντιγράφοντας τα 38 αυτά αρχεία στον κατάλογο **/\_includes** του αποθετηρίου.
 
 #### Τα link αρχείων κώδικα που έχουν τροποποιηθεί
-_biography/alan-kay.md
-_biography/mark-weiser.md
-_case-study/reactable.md
-_case-study/poet.md
-_case-study/mouse.md
-_case-study/ipod.md
-_case-study/windows.md
-_case-study/xerox-parc.md
-_case-study/affective.md
-_case-study/www.md
-_case-study/google_search.md
-_case-study/arduino.md
-_case-study/minecraft.md
-_case-study/star.md
-_case-study/facebook.md
-_case-study/wikipedia.md
-pages/method/method.md
-pages/credits/image-credits.md
-pages/chapters/make.md
-pages/chapters/research.md
+[alan-kay.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/alan-kay.md), 
+[mark-weiser.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/mark-weiser.md), 
+[reactable.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/reactable.md), 
+[poet.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/poet.md), 
+[mouse.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/mouse.md), 
+[ipod.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/ipod.md), 
+[windows.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/windows.md), 
+[xerox-parc.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/xerox-parc.md), 
+[affective.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/affective.md), 
+[www.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/www.md), 
+[google_search.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/google_search.md), 
+[arduino.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/arduino.md), 
+[minecraft.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/minecraft.md), 
+[star.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/star.md), 
+[facebook.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/facebook.md), 
+[wikipedia.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/wikipedia.md), 
+[method.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/method/method.md), 
+[image-credits.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/credits/image-credits.md), 
+[make.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/chapters/make.md), 
+[research.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/chapters/research.md)
 #### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /\_biography σε /\_includes
-
+[bio-kay.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-kay.md), 
+[bio-weiser.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-weiser.md)
 #### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /\_case-study σε /\_includes
-
+[cs_reactable.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_reactable.md), 
+[cs_poet.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_poet.md), 
+[cs_mouse.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_mouse.md), 
+[cs_ipod.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_ipod.md), 
+[cs_windows.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_windows.md), 
+[cs_xerox-parc.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_xerox-parc.md), 
+[cs_affective.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_affective.md), 
+[cs_www.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_www.md), 
+[cs_google_search.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_google_search.md), 
+[cs_arduino.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_arduino.md), 
+[cs_minecraft.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_minecraft.md), 
+[cs_star.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_star.md), 
+[cs_facebook.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_facebook.md), 
+[cs_wikipedia.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_wikipedia.md)
 #### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/method σε /\_includes
-
-{% include audience.md
-{% include need.md %}
-{% include benefit.md %}
-{% include structure.md %}
-{% include required.md %}
-{% include approach.md %}
-{% include pedagogy.md %}
-{% include syllabus.md %}
-{% include projects.md %}
-{% include evaluation.md %}
+[audience.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/audience.md), 
+[need.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/need.md), 
+[benefit.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/benefit.md), 
+[structure.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/structure.md), 
+[required.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/required.md), 
+[approach.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/approach.md), 
+[pedagogy.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/pedagogy.md), 
+[syllabus.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/syllabus.md), 
+[projects.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/projects.md), 
+[evaluation.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/evaluation.md)
 #### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/credits σε /\_includes
-{% include credits-pre.md %}
-
-{% include credits-intro.md %}
-
-{% include credits-ch01.md %}
-
-{% include credits-ch02.md %}
-
-{% include credits-ch03.md %}
-
-{% include credits-ch04.md %}
-
-{% include credits-ch05.md %}
-
-{% include credits-ch06.md %}
-
-{% include credits-ax01.md %}
-
-{% include credits-ax02.md %}
-
+[credits-pre.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-pre.md), 
+[credits-intro.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-intro.md), 
+[credits-ch01.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch01.md), 
+[credits-ch02.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch02.md), 
+[credits-ch03.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch03.md), 
+[credits-ch04.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch04.md), 
+[credits-ch05.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch05.md), 
+[credits-ch05.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch05.md), 
+[credits-ax01.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ax01.md), 
+[credits-ax02.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ax02.md)
 #### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/chapters σε /\_includes
-
-
-
-
-
-
-
-
-### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
-
-### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
-
-###  Link 1ης Εικόνας:
-### [Ο μικροελεγκτής Atmega8 της Atmel](https://p18mili1.github.io/gr/gallery/Atmel_Atmega8/)
-
-###  Link 2ης Εικόνας: 
-### [Ο μικροελεγκτής Intel-P8051](https://p18mili1.github.io/gr/gallery/Intel_P8051/)
-
-###  Link 3ης Εικόνας:
-### [Ο μικροεπεξεργαστής MOS 6502](https://p18mili1.github.io/gr/gallery/MOS_6502/)
-
-###  Link 4ης Εικόνας:
-### [Ο μικροεπεξεργαστής Motorola MC6800](https://p18mili1.github.io/gr/gallery/Motorola_MC6800)
-
-###  Link 5ης Εικόνας:
-### [Ο μικροεπεξεργαστής Zilog_Z80](https://p18mili1.github.io/gr/gallery/Zilog_Z80/)
-
-## Παραδοτέο 2
-
-## Εργασία 3η
-### Παραγωγικότητα με μία λίστα todo
-Μετά την εγκατάσταση των απαιτούμενων αρχείων για την εκτέλεση τη εφαρμογής todo.sh δημιουργήθηκε στο αρχείο του κελύφους (.bashrc) η αντιστοίχιση t (alias) για την εντολή ~/todo.sh.
-
-### Link παραδοτέου αρχείου asciinema: https://asciinema.org/a/281841
-
-### Εκπλήρωση ζητούμενων Εργασίας 3
-
-* [x] Δημιουργίας λίστας προγραμματισμένων εργασιών.
-
-* [x] Επεξεργασία και προβολή κάποιων προγραμματισμένων εργασιών.
-
-* [x] Ορισμός προτεραιότητας και σήμανση ως εκτελεσμένων προγραμματισμένων εργασιών 
-
-* [x] Αντικατάσταση και διαγραφή προγραμματισμένων εργασιών.
-
-* [x] Προβολή μόνο εργασιών με προτεραιότητα, αρχείου εκτελεσμένων εργασιών και αρχείου αναφοράς των ανοικτών           
-      εργασιών και των εργασιών που έχουν εκτελεστεί.
-
-## Εργασία 4η
-### Διαχείριση συναντήσεων και εργασιών με το ημερολόγιο
-Μετά την εγκατάσταση των απαιτούμενων αρχείων για την εκτέλεση τη εφαρμογής calcurse έγινε η διαμόρφωση των παραμέτρων της εφαρμογής για την προσαρμογή στις ανάγκες του χρήστη.
-
-### Link παραδοτέου αρχείου asciinema: https://asciinema.org/a/286115
-
-### Εκπλήρωση ζητούμενων Εργασίας 4
-
-* [x] Δημιουργίας λίστας προγραμματισμένων συναντήσεων και εργασιών.
-
-* [x] Επεξεργασία συναντήσεων και εργασιών, δηλαδή αλλαγή ημερομηνίας και περιεχομένου συναντήσεων,
-     ορισμός προτεραιότητας προγραμματισμένων εργασιών, κτλ.
-
-* [x] Εξαγωγή δεδομένων σε αρχεία με μορφοποίηση ical και pcal. 
-
-* [x] Έξοδος από την εφαρμογή και εμφάνιση όλων των προγραμματισμένων συναντήσεων και εργασιών.
-
-* [x] Εμφάνιση συναντήσεων βάσει κοινών λέξεων, εργασιών βάσει προτεραιότητας, κτλ.
-
-* [x] Διαγραφή προγραμματισμένων συνατήσεων και εργασιών.
-
-* [x] Επαναφορά δεδομένων από το αρχείο δεδομένων μορφοποίησης ical.
-
-* [x] Διαγραφή διπλών εγγραφών.
-
-## Εργασία Συμμετοχικού Περιεχομένου
-## Παραδοτέο Γ
-Προσθήκη της βιογραφίας του  **_Ivan Sutherland_**.
-
-### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
-
-### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
-
-###  Βιογραφία του Ivan Sutherland:
-### [Link εκτελέσιμου](https://p18mili1.github.io/gr/biography/ivan-sutherland/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[pi-make.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/chapters/pi-make.md), 
+[pi-research.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/chapters/pi-research.md)
 
 # Ενδεικτικές οθόνες
 
@@ -225,11 +133,11 @@ pages/chapters/research.md
 * Ενδεικτική εικόνα για την **Εργασία 2**
 
   ![Screenshot](ergasia_2.jpg)
-
+  
+## Παραδοτέο 1
 * Ενδεικτική εικόνα για την **Εργασία 3**
 
   ![Screenshot](ergasia_3.jpg)
-
 
 * Ενδεικτική εικόνα για την **Εργασία 4**
 
@@ -240,3 +148,6 @@ pages/chapters/research.md
 Η εργασία  στο μάθημα HCI βοήθησε  στην απόκτηση δεξιοτήτων  που αφορούν το  λειτουργικό σύστημα Linux και τις τεράστιες δυνατότητες που παρέχει στους  χρήστες ,  καθώς  και  στην  εκμάθηση γλωσσών προγραμματισμού όπως η HTML, JavaScript και CSS. Επίσης μάθαμε να χειριζόμαστε την πλατφόρμα Github η οποία αποτελεί ένα ισχυρό εργαλείο για την δημιουργία μεγάλων projects, όπου η ομαδική συνεισφορά κρίνεται αναγκαία για την ολοκλήρωση τους. Τέλος, μέσω των δύο εργασιών συμμετοχικού περιεχομένου συνεισφέραμε στον εμπλουτισμό του βιβλίου του μαθήματος.
 
 badwolfgr
+### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
+
+### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
