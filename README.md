@@ -46,10 +46,10 @@
 [Εικονίδιο 5](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80-thumb.jpg)
 
 Για το **Παραδοτέο Γ** της εργασίας συμμετοχικού περιεχομένου επέλεξα να προσθέσω μια νέα βιογραφία, του _Ivan Sutherland_. Αφού συνέθεσα το βιογραφικό έπειτα από σχετική έρευνα στο Internet, το αποθήκευσα σε μορφή markdown στο αρχείο *bio-sutherland.md* και μαζί με το αρχείο κώδικα *ivan-sutherland.md* τα έβαλα στον κατάλογο **/\_biography** του αποθετηρίου. Στη συνέχεια, έβαλα στον κατάλογο **/images** τρεις εικόνες και τα αντίστοιχα εικονίδιά τους (thumb).
-##### Τα link αρχείων κώδικα που έχουν προστεθεί:
+#### Τα link αρχείων κώδικα που έχουν προστεθεί:
 [Αρχείο κώδικα](https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md), 
 [Βιογραφία](https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-sutherland.md) 
-##### Τα link των εικόνων και εικονιδίων που έχουν προστεθεί:
+#### Τα link των εικόνων και εικονιδίων που έχουν προστεθεί:
 [Εικόνα 1](https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland.jpg), 
 [Εικονίδιο 1](https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland-thumb.jpg), 
 [Εικόνα 2](https://github.com/p18mili1/gr/blob/gh-pages/images/lightpen.jpg), 
@@ -59,7 +59,7 @@
 
 Το πρόβλημα με τα github pages που ανέφερα παραπάνω οφείλονταν στο γεγονός ότι υπήρχαν 20 αρχεία, τα οποία περιείχαν το tag "include_relative" για συνολικά 38 αρχεία χωρίς να υπάρχει ο κατάλογος αυτός. Το πρόβλημα λύθηκε αλλάζοντας το tag "include_relative" σε "include" και αντιγράφοντας τα 38 αυτά αρχεία στον κατάλογο **/\_includes** του αποθετηρίου.
 
-##### Τα link αρχείων κώδικα που έχουν τροποποιηθεί
+#### Τα link αρχείων κώδικα που έχουν τροποποιηθεί
 [alan-kay.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/alan-kay.md), 
 [mark-weiser.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/mark-weiser.md), 
 [reactable.md](https://github.com/p18mili1/gr/blob/gh-pages/_case-study/reactable.md), 
@@ -80,10 +80,10 @@
 [image-credits.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/credits/image-credits.md), 
 [make.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/chapters/make.md), 
 [research.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/chapters/research.md)
-##### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /\_biography σε /\_includes
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /\_biography σε /\_includes
 [bio-kay.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-kay.md), 
 [bio-weiser.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-weiser.md)
-##### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /\_case-study σε /\_includes
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /\_case-study σε /\_includes
 [cs_reactable.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_reactable.md), 
 [cs_poet.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_poet.md), 
 [cs_mouse.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_mouse.md), 
@@ -98,7 +98,7 @@
 [cs_star.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_star.md), 
 [cs_facebook.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_facebook.md), 
 [cs_wikipedia.md](https://github.com/p18mili1/gr/tree/gh-pages/_case-study/cs_wikipedia.md)
-##### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/method σε /\_includes
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/method σε /\_includes
 [audience.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/audience.md), 
 [need.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/need.md), 
 [benefit.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/benefit.md), 
@@ -109,7 +109,7 @@
 [syllabus.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/syllabus.md), 
 [projects.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/projects.md), 
 [evaluation.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/method/evaluation.md)
-##### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/credits σε /\_includes
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/credits σε /\_includes
 [credits-pre.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-pre.md), 
 [credits-intro.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-intro.md), 
 [credits-ch01.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch01.md), 
@@ -120,7 +120,7 @@
 [credits-ch06.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ch06.md), 
 [credits-ax01.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ax01.md), 
 [credits-ax02.md](https://github.com/p18mili1/gr/tree/gh-pages/pages/credits/credits-ax02.md)
-##### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/chapters σε /\_includes
+#### Τα link αρχείων κώδικα που έχουν αντιγραφεί από /pages/chapters σε /\_includes
 [pi-make.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/chapters/pi-make.md), 
 [pi-research.md](https://github.com/p18mili1/gr/blob/gh-pages/pages/chapters/pi-research.md)
 
