@@ -47,8 +47,8 @@
 
 Για το **Παραδοτέο Γ** της εργασίας συμμετοχικού περιεχομένου επέλεξα να προσθέσω μια νέα βιογραφία, του _Ivan Sutherland_. Αφού συνέθεσα το βιογραφικό έπειτα από σχετική έρευνα στο Internet, το αποθήκευσα σε μορφή markdown στο αρχείο *bio-sutherland.md* και μαζί με το αρχείο κώδικα *ivan-sutherland.md* τα έβαλα στον κατάλογο **/\_biography** του αποθετηρίου. Στη συνέχεια, έβαλα στον κατάλογο **/images** τρεις εικόνες και τα αντίστοιχα εικονίδιά τους (thumb).
 #### Τα link αρχείων κώδικα που έχουν προστεθεί:
-[Αρχείο κώδικα](https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md), 
-[Βιογραφία](https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-sutherland.md) 
+Αρχείο κώδικα: [ivan-sutherland.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md), 
+Βιογραφία: [bio-sutherland.md](https://github.com/p18mili1/gr/blob/gh-pages/_biography/bio-sutherland.md) 
 #### Τα link των εικόνων και εικονιδίων που έχουν προστεθεί:
 [ivan-sutherland.jpg](https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland.jpg) και 
 [εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland-thumb.jpg), 
@@ -151,18 +151,11 @@
 # Αναφορές
 Περιλαμβάνονται όλοι οι σύνδεσμοι ιστοσελίδων που πάνω στις οποίες βασίστηκα για την ολοκλήρωση της εργασίας συνολικά.
 
-https://en.wikipedia.org/wiki/Ivan_Sutherland
-
-https://www.computerhistory.org/fellowawards/hall/ivan-e-sutherland/
-
-https://www.computer.org/profiles/ivan-sutherland
-
-https://en.wikipedia.org/wiki/List_of_early_microcomputers
-
-https://github.com/ranger/ranger/wiki/Official-user-guide)
-
-https://guides.github.com/features/mastering-markdown/
-
-https://www.markdownguide.org/getting-started/
-
-https://guides.github.com/features/mastering-markdown/
+* https://en.wikipedia.org/wiki/Ivan_Sutherland 
+* https://www.computerhistory.org/fellowawards/hall/ivan-e-sutherland/
+* https://www.computer.org/profiles/ivan-sutherland
+* https://en.wikipedia.org/wiki/List_of_early_microcomputers
+* https://github.com/ranger/ranger/wiki/Official-user-guide)
+* https://guides.github.com/features/mastering-markdown/
+* https://www.markdownguide.org/getting-started/
+* https://guides.github.com/features/mastering-markdown/
