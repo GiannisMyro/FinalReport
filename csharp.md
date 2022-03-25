@@ -959,6 +959,18 @@ public class Program
         Shape shape = circle;
     }
 }
+
+or 
+
+public class Program
+{
+    void Main()
+    {
+        //No conversion is required. Because shape its is base class.
+        Shape shape = new Circle();
+    }
+}
+
 ```
 
 ###### Downcasting
